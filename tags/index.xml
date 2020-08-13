@@ -1,21 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - 标签 - 软百softwarebuy</title>
-        <link>softwarebuy/tags/</link>
+        <link>https://softwarebuy.github.io/tags/</link>
         <description>Tags - 标签 - 软百softwarebuy</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 27 Jul 2020 01:24:14 &#43;0800</lastBuildDate><atom:link href="softwarebuy/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 27 Jul 2020 01:24:14 &#43;0800</lastBuildDate><atom:link href="https://softwarebuy.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>日志</title>
-    <link>softwarebuy/tags/%E6%97%A5%E5%BF%97/</link>
+    <link>https://softwarebuy.github.io/tags/%E6%97%A5%E5%BF%97/</link>
     <pubDate>Mon, 27 Jul 2020 01:24:14 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>softwarebuy/tags/%E6%97%A5%E5%BF%97/</guid>
+    <guid>https://softwarebuy.github.io/tags/%E6%97%A5%E5%BF%97/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>软件</title>
-    <link>softwarebuy/tags/%E8%BD%AF%E4%BB%B6/</link>
+    <link>https://softwarebuy.github.io/tags/%E8%BD%AF%E4%BB%B6/</link>
     <pubDate>Sun, 26 Jul 2020 01:56:46 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>softwarebuy/tags/%E8%BD%AF%E4%BB%B6/</guid>
+    <guid>https://softwarebuy.github.io/tags/%E8%BD%AF%E4%BB%B6/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
